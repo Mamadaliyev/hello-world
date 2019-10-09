@@ -1,0 +1,598 @@
+.{
+	font-family: SF Pro Display !important;
+}
+main{
+	margin-top: 100px; 
+}
+body{
+	background-color: #E5E5E5 !important;
+}
+.soya{
+	box-shadow: 0 0 5px rgba(0,0,0,0.5) !important;
+	background-color: white;
+}
+.form-control:focus{
+	box-shadow: none !important;
+}
+.nav-item span{
+	font-size: 14px !important;
+	line-height: 17px !important;
+	color: #343434 !important;
+	font-weight: 500;
+}
+.signin{
+	border-radius: 6px;
+	padding: 5px 40px;
+	box-shadow: 0px 6px 30px rgba(220, 235, 230, 0.87) !important;
+}
+.nav-item span:hover{
+	color: blue !important;
+}
+.lang{
+	width: 100% !important;
+	outline: none !important;
+}
+.register{
+	background-color: #1DD1A1 !important;
+	border-radius: 3px !important;
+	color: white !important;
+	font-size: 14px !important;
+}
+.register2{
+	display: none !important;
+	background-color: #1DD1A1 !important;
+	border-radius: 3px !important;
+	color: white !important;
+	font-size: 14px !important;
+}
+.agar{
+	font-size: 40px !important;
+	line-height: 48px !important;
+}
+.agar2{
+	margin-top: 250px;
+}
+.albatta{
+	padding-top: 156px;
+}
+.telnomer{
+	font-size: 14px;
+	line-height: 17px;
+	color: #1DD1A1;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.telinput{
+	border-left: 3px solid #1DD1A1 !important;
+	margin-top: 0 !important;
+	padding-top: 0 !important;
+	border-radius: 0 !important;
+}
+.yashil{
+	background-color: #1DD1A1 !important;
+	color: white !important;
+	display: inline-block !important;
+}
+
+.kirish{
+	margin-top: 66px;
+	width: 67%;
+}
+.rasm{
+	margin-top: 96px;
+	position: relative;
+}
+.play{
+	position: absolute;
+	top: 45%;
+	left: 38%;
+}
+.custom-switch{
+	display: inline-block !important;
+	color: #0F314C !important;
+}
+.rang{
+	background-color: #1DD1A1 !important;
+}
+.javabg{
+	position: relative;
+	margin-top: 107px;
+}
+.javamiddle{
+	position: absolute;
+	top: 20%;
+	left: 45%;
+	background-color: white;
+	border-left: 3px solid #FB4767;
+	width: 102px;
+	height: 51px;
+	border-radius: 4px;
+	box-shadow: 5px 15px 10px #888888;
+}
+.javatext{
+	color: #FB4767;
+	font-size: 16px;
+	line-height: 19px;
+	padding-top: 15px;
+	font-weight: bold;
+}
+.javalarge{
+	position: absolute;
+	top: 40%;
+	left: 0;
+	width: 327px;
+	height: 172px;
+	background-color: white;
+	border-radius: 4px;
+}
+.javalargetext{
+	margin-left: 32px;
+	margin-top: 32px;
+	font-size: 24px;
+	line-height: 29px;
+	color: #111111;
+	font-weight: bold;
+	display: inline-block;
+}
+.circle{
+	position: absolute;
+	top: 10%;
+	left: 90%;
+	width: 6px;
+	height: 6px;
+	background-color: #C4C4C4;
+	border-radius: 50%;
+}
+.circle2{
+	top: 15%;
+}
+.circle3{
+	top: 20%;
+}
+.line1{
+	width: 229px;
+	height: 6px;
+	background-color: #EEF2F5;
+	border-radius: 6px;
+	margin-left: 25px;
+}
+.hrr{
+	padding: 0;
+	margin: 12px;
+}
+.line2{
+	margin-left: 25px;
+	width: 124px;
+	height: 6px;
+	background-color: #EEF2F5;
+	border-radius: 6px;
+}
+.line3{
+	width: 155px;
+	height: 6px;
+	margin-left: 25px;
+	margin-top: 12px;
+	background-color: #EEF2F5;
+	border-radius: 6px;
+}
+.line4{
+	width: 42px;
+	height: 6px;
+	background-color: #1DD1A1;
+	border-radius: 2px;
+	margin-left: 25px;
+	margin-top: 18px;
+	display: inline-block;
+}
+.line5{
+	display: inline-block;
+	width: 42px;
+	height: 6px;
+	background-color: #FFAD0F;
+	border-radius: 2px;
+	margin-left: 12px;
+	margin-top: 18px;
+}
+.line6{
+	display: inline-block;
+	width: 42px;
+	height: 6px;
+	background-color: #FB4767;
+	border-radius: 2px;
+	margin-left: 12px;
+	margin-top: 18px;
+	box-shadow: 0px 4px 10px rgba(165, 180, 188, 0.94);
+	border-radius: 2px;	
+}
+.python{
+	position: absolute;
+	top: 92%;
+	margin-left: 55px;
+	width: 102px;
+	height: 51px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+	border-left: 3px solid #FFAD0F;
+}
+.pythontext{
+	font-weight: bold;
+	padding-top: 15px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFAD0F;
+}
+.go{
+	position: absolute;
+	top: 97%;
+	left: 52%;
+	width: 60px;
+	height: 51px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+	border-left: 3px solid #1997F2;
+}
+.gotext{
+	font-size: 16px;
+	line-height: 19px;
+	color: #1997F2;
+	font-weight: bold;
+	padding-top: 15px;
+}
+.tanlang{
+	margin-top: 170px;
+}
+.tanlangtext{
+	font-size: 30px !important;
+	color: #343434 !important;
+	line-height: 36px;
+}
+.tanlangtext2{
+	margin-top: 22px;
+	font-size: 20px;
+	line-height: 24px;
+}
+.topshiriq{
+	margin-top: 158px;
+}
+.stringa{
+	margin-top: 70px !important;
+	padding-left: 60px !important;
+}
+.vector2{
+	position: relative;
+}
+.tip1{
+	position: absolute;
+	top: 25%;
+	width: 304px;
+	height: 50px;
+	background: #FFFFFF;
+	box-shadow: 15px 30px 15px #888888;
+	border-radius: 4px;
+	padding: 12px 22px;
+}
+.tip1text{
+	margin-left: 18px;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+}
+.tip2{
+	position: absolute;
+	top: 47%;
+	left: 25%;
+	width: 304px;
+	height: 50px;
+	background: #FFFFFF;
+	border-radius: 4px;
+	padding: 12px 22px;
+}
+.tip3{
+	position: absolute;
+	top: 70%;
+	left: 0%;
+	width: 304px;
+	height: 50px;
+	background: #FFFFFF;
+	border-radius: 4px;
+	padding: 12px 22px;
+}
+.javayak{
+	margin-top: 160px;
+	position: relative;
+}
+.warning{
+	position: absolute;
+	top: 80%;
+	left: 7%;
+	width: 52px;
+	height: 52px;
+	box-sizing: border-box;
+	background-color: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.warning2{
+	margin-top: 12px;
+	width: 30px;
+	height: 25px;
+}
+.ptichka2{
+	position: absolute;
+	top: 84%;
+	left: 42%;
+	width: 52px;
+	height: 52px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.ptichkafoto{
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+}
+.java2large{
+	position: absolute;
+	top: 47%;
+	left: 15%;
+	width: 230px;
+	height: 168px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.line7{
+	width: 151px;
+	height: 6px;
+	background-color: #EEF2F5;
+	border-radius: 6px;
+	margin-top: 73px;
+	margin-left: 41px;
+}
+.line8{
+	width: 88px;
+	height: 6px;
+	margin-top: 10px;
+	margin-left: 41px;
+	background-color: #EEF2F5;
+}
+.line9{
+	width: 114px;
+	height: 6px;
+	margin-top: 10px;
+	margin-left: 41px;
+	background-color: #EEF2F5;
+}
+.java3{
+	display: flex;
+	position: absolute;
+	top: 52%;
+	left: 8%;
+	width: 118px;
+	height: 32px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.ptichka3{
+	margin-top: 8px;
+	margin-left: 10px;
+	width: 16px;
+	height: 15px;
+}
+.javatext2{
+	font-size: 24px;
+	line-height: 29px;
+	font-weight: bold;
+	margin-left: 15px;
+}
+.ptichka4{
+	position: absolute;
+	top: 38%;
+	left: 50%;
+	width: 52px;
+	height: 52px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.tan2{
+	margin-top: 170px;
+}
+.tan3{
+	margin-top: 134px;
+}
+.humans{
+	position: relative;
+	margin-top: 90px;
+	padding-left: 50px;
+}
+.ptichka5{
+	position: absolute;
+	top: 80%;
+	left: 55%;
+	padding-top: 2px;
+	width: 31px;
+	height: 31px;
+	background: #FFFFFF;
+	border-radius: 4px;
+}
+.ellipse{
+	position: absolute;
+	top: 66%;
+	left: 57%;
+	width: 59px;
+	height: 59px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 50%;
+}
+.humanimage{
+	color: transparent;
+	margin-top: 10px;
+}
+.ell2{
+	top: 75%;
+	left: 35% !important;
+	width: 45px;
+	height: 45px;
+}
+.hi2{
+	width: 28px;
+	height: 25px;
+}
+.ellipse2{
+	position: absolute;
+	top: 45%;
+	left: 33%;
+}
+.ell3{
+	top: 35%;
+	left: 20%;
+	width: 92px;
+	height: 92px;
+	background: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+}
+.hi3{
+	width: 70px;
+	height: 62px;
+}
+.ell4{
+	width: 59px;
+	height: 59px;
+	left: 50%;
+	top: 40%;
+}
+.pti6{
+	top: 20%;
+	left: 45%;
+}
+.coder{
+	position: absolute;
+	top: 70%;
+	left: 20%;
+	padding: 5px 7px;
+	width: 43px;
+	height: 38px;
+	box-sizing: border-box;
+	background-color: #FFFFFF;
+	box-shadow: 0px 30px 40px rgba(200, 213, 222, 0.74);
+	border-radius: 4px;
+}
+.mashxurlar{
+	margin-top: 250px;
+}
+.dunyoda{
+	padding-left: 30px;
+	font-size: 40px;
+	line-height: 48px;
+	color: #343434;
+}
+.card2{
+	background-color: #FFFFFF;
+}
+.oq{
+	background-color: #FFFFFF !important;
+	border-top: none !important;
+}
+.textcard{
+	font-size: 14px !important;
+	line-height: 17px !important;
+}
+.knopka{
+	background-color: #1DD1A1 !important;
+	color: white !important;
+}
+.cardlar{
+	margin-top: 50px;
+}
+.foydalanuvchi{
+	margin-top: 222px;
+}
+.foydatext{
+	font-size: 16px;
+	line-height: 19px;
+}
+.qoshish{
+	background-color: #1DD1A1 !important;
+	color: white !important;
+	font-size: 16px !important;
+	padding: 5px 40px !important; 
+}
+.rasmm{
+	margin-top: 220px;
+}
+.reja{
+	margin-top: 220px;
+}
+.card4{
+	padding-bottom: 20px;
+}
+.card4:hover{
+	transition: all 1s;
+	transform: scale(1.1);
+	border-top: 3px solid #1DD1A1;	
+}
+.fikri{
+	margin-top: 177px;
+}
+
+footer{
+	background-color: #083844;
+}
+.footertext{
+	font-size: 16px;
+	line-height: 19px;
+	color: #F6FCFA;
+}
+.pdp{
+	font-size: 12px;
+	color: #F6FCFA;
+	opacity: 0.6;
+	line-height: 14px;
+	margin-top: 13px;
+}
+li a{
+	text-decoration: none;
+}
+.foot{
+	text-decoration: none !important;
+	font-size: 16px;
+	line-height: 19px;
+	color: #F6FCFA;
+}
+
+.li img{
+	color:#F6FCFA;
+}
+
+@media screen and (max-width: 500px)
+{
+	.lang{
+		/*width: 90% !important;*/
+	}
+	.register{
+		display: none !important;
+	}
+	.register2{
+		display: block !important;
+		padding: 2px !important;
+	}
+	.agar{
+		font-size: 25px !important;
+		padding: 20px;
+	}
+	.albatta{
+		padding-top: 50px;
+	}
+	.kirish{
+		margin-top: 20px;
+		padding-left: 20px;
+		width: 80%;
+	}
+}
